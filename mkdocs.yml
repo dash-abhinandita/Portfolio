@@ -1,0 +1,59 @@
+site_name: Abhinandita Dash
+
+nav:
+  - About Me: about.md
+  - Work experience: experience.md
+  - Education: education.md
+  - Academic projects: academicProjects.md
+  - Skill Sets: skillsets.md
+  - Certifications: certifications.md
+  - Achievements: achievements.md
+  - Publications: publications.md
+  - Conferences: conferences.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  font:
+    text: Enriqueta
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      primary: purple
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/abhinandita-dash-91348ba/
+    - icon: fontawesome/brands/github
+      link: https://github.com/abhinandita1234/
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/citations?user=CAvwk6EAAAAJ&hl=en
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/abhinandita
+    

@@ -10,6 +10,7 @@ nav:
   - Achievements: achievements.md
   - Publications: publications.md
   - Conferences: conferences.md
+  - Contact: contact.md
 
 theme:
   name: material

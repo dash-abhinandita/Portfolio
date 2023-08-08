@@ -1,16 +1,16 @@
 # Work Experience
-### :woman_technologist_tone1: **<u>Engineer III, Software</u>** </br>
-[Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html), Bengaluru, India (May 2018 – Oct 2022)
+### :woman_technologist_tone1: **<u>Engineer III, Software (Bioinformatics)</u>** </br>
+[Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html){target="_blank"}, Bengaluru, India (May 2018 – Oct 2022)
 
 #### :white_check_mark: Development of Business Analytics Dashboard
-- The product stakeholders analyse the application usage metric every week to derive business insights. Previously, the exploratory data analysis was done using custom scripts to generate plots, which used to take ~3hrs per week. In-order to automate the process business analytics dashboard was developed.
-- Developed analytical dashboard using SQL , Python, Dash Plotly to derive business insights. 
+- The product stakeholders analyse the application usage metric every week to derive business insights. Previously, the exploratory data analysis was done using custom scripts to generate plots, which used to take ~3hrs per week. 
+- In-order to automate the process business analytics dashboard was developed using SQL, Python, Dash Plotly to derive business insights. 
 - This led to reduction in the processing time by 20X.
 
 #### :white_check_mark: Developed Automation Framework
-- AmpliSeq designer software needs to be in sync with the latest releases of bioinformatics databases (RefGene, dbSNP, COSMIC) as used by the customers. So custom python scripts were written every time to identify the differences between the old vs new database for application verification.
-- Performed data mining and cleansing to be in sync with the application supported format. 
-- Developed python automation framework to compare different versions of the public database (RefGene, dbSNP, COSMIC) supported in AmpliSeq designer software
+- AmpliSeq designer software supports input IDs from various bioinformatics databases (RefGene, dbSNP, COSMIC) for designing the primers.
+- An automation testing framework was developed to compare and sync up IDs with the latest versions of these databases as used by customers.
+- This led to speedy verification and validation of database synchronization meeting release timelines.
 
 #### :white_check_mark: Chatbot for AmpliSeq product support
 - AmpliSeq designer software has multiple product offerings and selection of the product is very confusing for the novice users. The idea of this project was to a develop a chatbot that would work as a SME or provide a guided wizard for product selection. This was developed as a POC as part of hackathon and won the runner’s up award across 30 teams globally.
@@ -25,8 +25,8 @@
 - Led to 8X reduction in TAT 
 - Reduced cost of AWS services by avoiding the execution of the pipeline for cached genes
 
-### :woman_scientist_tone1: **<u>Scientist (Team Lead)</u>**<br> 
-[Genotypic Technology Pvt. Ltd.](https://www.genotypic.co.in/), Bengaluru, India (Jan 2014 – May 2018)
+### :woman_scientist_tone1: **<u>Bioinformatics Scientist (Team Lead)</u>**<br> 
+[Genotypic Technology Pvt. Ltd.](https://www.genotypic.co.in/){target="_blank"}, Bengaluru, India (Jan 2014 – May 2018)
 #### :white_check_mark: Management of large-scale genomic data analysis projects
 - Led and mentored the Next Generation Sequencing (NGS) analysis team of 5 members.
 - Handled >400 NGS analysis projects over a span of 4.5 years. 
@@ -49,7 +49,7 @@
 - Generated custom interactive visualizations using Python and R/Bioconductor packages.
 
 ### :office_worker_tone1: **<u>Bioinformatics Research Fellow</u>** <br>
-[C.R. Rao AIMSCS](https://crraoaimscs.res.in/), Hyderabad, India (Oct 2012 – Dec 2013)<br>
+[C.R. Rao AIMSCS](https://crraoaimscs.res.in/){target="_blank"}, Hyderabad, India (Oct 2012 – Dec 2013)<br>
 
 - Worked on a DST sponsored project titled "Network Biology approach in understanding of the signalling pathway with reference to membrane dynamics during exocytosis and endocytosis: Applications in Health and Disease." 
 - Performed literature and database mining (HuGE navigator, OMIM, GAD) to collect the genes associated with Diabetes mellitus and Coronary Artery Disease.

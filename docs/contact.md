@@ -1,1 +1,1 @@
-[Connect :fontawesome-brands-linkedin:](https://www.linkedin.com/in/abhinandita-dash-91348ba/){ .md-button target="_blank"} [Collaborate :fontawesome-brands-github:](https://github.com/abhinandita1234/){ .md-button target="_blank"}
+[Connect :fontawesome-brands-linkedin:](https://www.linkedin.com/in/abhinandita-dash-91348ba/){ .md-button target="_blank"} [Collaborate :fontawesome-brands-github:](https://github.com/dash-abhinandita/){ .md-button target="_blank"}

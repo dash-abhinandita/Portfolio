@@ -1,7 +1,7 @@
 site_name: Abhinandita Dash
 
 nav:
-  - About Me: about.md
+  - About Me: index.md
   - Work experience: experience.md
   - Education: education.md
   - Academic projects: academicProjects.md
